@@ -74,7 +74,6 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-# windy.ipynb
 
 # IPython
 profile_default/
@@ -136,4 +135,4 @@ __azurite_db*__.json
 .python_packages
 
 # Data
-# turbine-data.csv
+Turbine_Data.csv
