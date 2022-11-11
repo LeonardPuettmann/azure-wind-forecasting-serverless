@@ -4,7 +4,7 @@ This repository contains the data and code to train a machine learning model on 
 
 Please note that the machine learning model is not perfect and only used for demonstration purposes. If you would like to point out any improvements, feel free to open an issue or contact me directly. 
 
-To deploy serverless function apps on Azure, you'll need:
+To deploy serverless function apps for Python on Azure, you'll need:
 * An actvive subscription in Azure
 * VS Code as well as some Azure Extentions
 * Python 3.8 or higher
