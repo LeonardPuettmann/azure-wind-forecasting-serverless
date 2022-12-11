@@ -5,7 +5,7 @@ import json
 
 import azure.functions as func
 
-dtr = joblib.load('windpred_model.pkl')
+dtr = joblib.load('lgbm_model.pkl')
 
 def main(req: func.HttpRequest) -> func.HttpResponse:
 
